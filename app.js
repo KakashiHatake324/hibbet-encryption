@@ -175,4 +175,4 @@ encrypt = function(t) {
 }
 
 const f = encrypt(cardNum)
-console.log("['" + f + "']");
+console.log(f);
